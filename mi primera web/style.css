@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    /* Esto asegura que el contenedor ocupe toda la altura de la pantalla */
+}
+
+body {
+    background-color: cyan;
+}
+
+    h2 {
+        color: red;
+    }
+
+    h1 {
+        background-color: red;
+    }
+
+    h2 {
+        background-color: yellow;
+    }
+
+    h4 {
+        color: purple;
+    }
+
+    h4 {
+        background-color: wheat;
+    }
